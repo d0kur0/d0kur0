@@ -4,7 +4,6 @@ I use:
 ![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=ffffff)
 ![PHP](https://img.shields.io/badge/--787CB5?logo=php&logoColor=ffffff)
-![BASH](https://img.shields.io/badge/--540D6E?logo=BASH&logoColor=ffffff)
 ![official JetBrains project](http://jb.gg/badges/official.svg)
 
 Working in:
