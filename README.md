@@ -9,8 +9,6 @@ I use:
 Working in:
 
 [![MTT](https://www.mtt.ru/static/dist_vue/img/logo.8897a066.svg)](https://mtt.ru)
-[![MTT](https://www.mtt.ru/static/dist_vue/img/logo.8897a066.svg)](https://mtt.ru)
-
 
 
 ![d0kur0's github stats](https://github-readme-stats.vercel.app/api?username=d0kur0&show_icons=true&theme=radical&count_private=true)
