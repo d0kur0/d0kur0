@@ -11,9 +11,6 @@ Working in:
 [![MTT](https://raw.githubusercontent.com/d0kur0/d0kur0/fa80deae9ffaa9a79c60ed6625f70ed5bad5b5fe/mtt.svg)](https://mtt.ru)
 
 
-![d0kur0's github stats](https://github-readme-stats.vercel.app/api?username=d0kur0&show_icons=true&theme=radical&count_private=true)
-
-
 ![](https://komarev.com/ghpvc/?username=d0kur0&label=?-23qfAF12)
 
 
