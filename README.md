@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=d0kur0&label=?-23qfAF12)
+![](https://komarev.com/ghpvc/?username=d0kur0&label=?-gs23qfAF12)
 
 
 <a href="https://github.com/d0kur0/cui">
