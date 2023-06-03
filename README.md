@@ -10,11 +10,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0kur0&repo=toster-stickers&theme=radical&show_owner=true" />
 </a>
 
-<a href="https://github.com/d0kur0/webm-api">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0kur0&repo=webm-api&theme=radical&show_owner=false" />
-</a>
-
-<a href="https://github.com/d0kur0/webm-pwa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0kur0&repo=webm-pwa&theme=radical&show_owner=true" />
-</a>
+working gitlab:
+<img width="961" alt="image" src="https://github.com/d0kur0/d0kur0/assets/31435565/825dbddb-066e-4ee2-8392-f2b4f2519134">
 
