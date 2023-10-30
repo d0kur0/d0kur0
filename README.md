@@ -1,13 +1,12 @@
 
 ![](https://komarev.com/ghpvc/?username=d0kur0&label=?-gs23qfAF12)
 
+<a href="https://github.com/d0kur0/webm-desktop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0kur0&repo=webm-desktop&theme=radical&show_owner=true" />
+</a>
 
 <a href="https://github.com/d0kur0/cui">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0kur0&repo=cui&theme=radical&show_owner=true" />
-</a>
-
-<a href="https://github.com/d0kur0/toster-stickers">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=d0kur0&repo=toster-stickers&theme=radical&show_owner=true" />
 </a>
 
 <br />
